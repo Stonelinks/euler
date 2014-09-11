@@ -1,4 +1,4 @@
 euler
 =====
 
-Project euler solutions (for my own self education)
+[Project euler](https://projecteuler.net/) solutions (for my own self education)
